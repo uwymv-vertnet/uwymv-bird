@@ -1,0 +1,106 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 27
+Number of records retrieved in searches: 40
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 4
+	Date: 2015-05-07 ; Times: 6
+	Date: 2015-05-12 ; Times: 2
+	Date: 2015-05-14 ; Times: 3
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-16 ; Times: 3
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-26 ; Times: 3
+	Date: 2015-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:columbiana genus:Nucifraga tissue:1" ; Times: 1
+	Query: "Spizella pallida United States Wyoming" ; Times: 1
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 3
+	Query: "Falco sparverius type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1000 year <= 1907" ; Times: 2
+	Query: "Dendragapus obscurus year >= 1800 year <= 1910" ; Times: 1
+	Query: "grus antigone" ; Times: 1
+	Query: "porzana porzana" ; Times: 1
+	Query: ""Setophaga kirtlandii" type:specimen" ; Times: 1
+	Query: "falco sparverius road type:specimen AND (NOT egg NOT eggs NOT Canada) year >= 1985 year <= 2015" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 2
+	Query: "Nucifraga columbiana" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 3
+	Query: "Buteo jamaicensis type:specimen AND (NOT egg NOT eggs) year >= 1000 year <= 1907" ; Times: 1
+	Query: "Caprimulgus carolinensis" ; Times: 1
+	Query: "vermivora bachmanii" ; Times: 1
+	Query: "Dendragapus obscurus year >= 1800 year <= 1920" ; Times: 1
+	Query: "Aquila chrysaetos AND (NOT california) mappable:1" ; Times: 2
+	Query: "aves Georgia United States Lanius ludovicianus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 976 download events in this period)
+Total number of records downloaded: 194 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 103
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 138
+Total number of records retrieved from searches: 1228
+Number of download events that retrieved data from the resource: 42
+Total number of records downloaded: 780
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 148
+Total number of records retrieved from searches: 1451
+Number of download events that retrieved data from the resource: 156
+Total number of records downloaded: 4333
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
