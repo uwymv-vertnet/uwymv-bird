@@ -1,0 +1,122 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 43
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-05 ; Times: 1
+	Date: 2015-06-08 ; Times: 1
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-23 ; Times: 3
+	Date: 2015-06-24 ; Times: 3
+	Date: 2015-06-25 ; Times: 3
+	Date: 2015-06-26 ; Times: 4
+	Date: 2015-06-27 ; Times: 2
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "jabillos" ; Times: 1
+	Query: "aves Georgia United States Pipilo erythrophthalmus" ; Times: 1
+	Query: "aves Georgia United States "dominica dominica"" ; Times: 1
+	Query: "aves Georgia United States Dolichonyx oryzivorus" ; Times: 1
+	Query: "aglaiocercus berlepschi" ; Times: 1
+	Query: "aves Georgia United States noveboracensis" ; Times: 1
+	Query: "centrocercus minimus" ; Times: 1
+	Query: "aves Georgia United States cyanea" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra" ; Times: 2
+	Query: "Passerella teton" ; Times: 1
+	Query: "aves Georgia United States Icterus spurius" ; Times: 1
+	Query: "aves Georgia United States Polioptila" ; Times: 1
+	Query: "aves Georgia United States Zonotrichia albicollis" ; Times: 1
+	Query: "aves Georgia United States Polioptila caerulea" ; Times: 1
+	Query: "aves Georgia United States Protonotaria" ; Times: 1
+	Query: "aves Georgia United States Piranga rubra 18" ; Times: 1
+	Query: "stateprovince:"Indiana" (Wells County) mappable:1" ; Times: 1
+	Query: "class:aves recordedby:Bidwell" ; Times: 8
+	Query: "aves Georgia United States Geothlypis" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "asio otus" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "Aglaiocercus berlepschi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1524 download events in this period)
+Total number of records downloaded: 68 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 53
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Denmark ; Times: 6
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 1
+	Date: 2015-06-23 ; Times: 1
+	Date: 2015-06-25 ; Times: 1
+	Date: 2015-06-27 ; Times: 1
+	Date: 2015-06-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "type:specimen AND (aves) distance(location,geopoint(42.73087427928485,-76.2451171875))<100000" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Coeligena helianthea" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 169
+Total number of records retrieved from searches: 1271
+Number of download events that retrieved data from the resource: 58
+Total number of records downloaded: 848
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 179
+Total number of records retrieved from searches: 1494
+Number of download events that retrieved data from the resource: 172
+Total number of records downloaded: 4401
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
