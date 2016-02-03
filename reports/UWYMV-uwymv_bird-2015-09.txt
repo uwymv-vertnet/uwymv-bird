@@ -1,0 +1,84 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 21
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-11 ; Times: 1
+	Date: 2015-09-03 ; Times: 5
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-30 ; Times: 2
+	Date: 2015-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:asio genus:megascops tissue:1" ; Times: 2
+	Query: "distance(location,geopoint(21.3802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "lagopus leucura" ; Times: 1
+	Query: "strix nebulosa" ; Times: 2
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:megascops tissue:1" ; Times: 2
+	Query: "roadkill" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1045 download events in this period)
+Total number of records downloaded: 454
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+	Country: Hong Kong ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-19 ; Times: 4
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "genus:cyanocitta year &gt;= 2010 year &lt;= 2014 month &gt;= 6 month &lt;= 11" ; Times: 1
+	Query: "genus:megascops tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:ruber genus:Sphyrapicus" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "genus:cypseloides stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "Spizella pallida from the United States" ; Times: 2
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+
+
+End of report.
