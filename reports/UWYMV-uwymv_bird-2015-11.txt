@@ -1,0 +1,79 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-27 ; Times: 2
+	Date: 2015-11-06 ; Times: 4
+	Date: 2015-11-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UWYMV" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Synthliboramphus Benito" ; Times: 3
+	Query: "Synthliboramphus hypoleucus" ; Times: 2
+	Query: "junco indiana" ; Times: 1
+	Query: "cerorhinca tissue:1" ; Times: 1
+	Query: "Falco deiroleucus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; year &gt;= 1895 year &lt;= 1895 month &gt;= 5 month &lt;= 7" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 751 download events in this period)
+Total number of records downloaded: 2345
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-21 ; Times: 3
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "institutioncode:UWYMV" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Huachuca class:Aves year &gt;= 1894 year &lt;= 1896" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1977" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Falco deiroleucus mappable:1" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+	Query: "Corvus corax type:specimen mappable:1" ; Times: 1
+
+
+End of report.
