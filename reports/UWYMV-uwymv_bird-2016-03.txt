@@ -1,0 +1,49 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 230 download events in this period)
+Total number of records downloaded: 6340
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "Setophaga nigrescens" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "tissue" ; Times: 39
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+
+
+End of report.
