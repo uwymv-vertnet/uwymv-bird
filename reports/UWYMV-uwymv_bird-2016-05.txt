@@ -1,0 +1,46 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 5
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-31 ; Times: 4
+	Date: 2016-05-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 327 download events in this period)
+Total number of records downloaded: 13
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: China ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-31 ; Times: 1
+	Date: 2016-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "calypte anna" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+
+
+End of report.
