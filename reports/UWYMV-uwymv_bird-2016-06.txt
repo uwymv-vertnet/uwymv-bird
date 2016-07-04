@@ -1,0 +1,97 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 191
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-02 ; Times: 1
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Breninger" ; Times: 1
+	Query: "rodent" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;United States&#34;" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "class:Aves country:&#34;Costa Rica&#34; year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "a.w. anthony" ; Times: 3
+	Query: "type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "cypseloides class:aves" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "aegolius funereus" ; Times: 3
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "type:specimen specificepithet:leucura genus:Lagopus continent:North America" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus stateprovince:&#34;Wyoming&#34; year &gt;= 1870 year &lt;= 2014" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "Toxostoma redivivum" ; Times: 1
+	Query: "class:Aves country:&#34;Costa Rica&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Lagopus leucura altipetens specificepithet:leucura genus:Lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Ptychoramphus aleuticus AND San Miguel Island" ; Times: 1
+	Query: "Catalina Island AND 1897" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;) mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus stateprovince:&#34;Wyoming&#34; continent:North America" ; Times: 1
+	Query: "anas cyanoptera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1052 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-08 ; Times: 4
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;) mappable:1" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+
+
+End of report.
