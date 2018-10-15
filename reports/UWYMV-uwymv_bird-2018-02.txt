@@ -1,0 +1,205 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 255
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 3
+	Country: Portugal ; Times: 40
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 75
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 17
+	Date: 2018-02-27 ; Times: 21
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-19 ; Times: 3
+	Date: 2018-02-06 ; Times: 11
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-20 ; Times: 21
+	Date: 2018-02-05 ; Times: 1
+	Date: 2018-02-21 ; Times: 28
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1296 institutioncode:UWYMV" ; Times: 2
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 4
+	Query: "catalognumber:461 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:367 institutioncode:UWYMV" ; Times: 1
+	Query: "Melopsittacus undulatus mappable:1" ; Times: 3
+	Query: "catalognumber:79 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1051 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "catalognumber:1059 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:1039 institutioncode:UWYMV" ; Times: 1
+	Query: "Aythya valisineria mappable:1" ; Times: 4
+	Query: "catalognumber:1343 institutioncode:UWYMV" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 4
+	Query: "catalognumber:354 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1073 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "specificepithet:hypoleucus hypoleucus genus:Synthliboramphus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:1106 institutioncode:UWYMV" ; Times: 1
+	Query: "Alectoris chukar mappable:1" ; Times: 4
+	Query: "Amazona oratrix mappable:1" ; Times: 3
+	Query: "catalognumber:162 institutioncode:UWYMV" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "Nymphicus hollandicus mappable:1" ; Times: 3
+	Query: "Oxyura jamaicensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:183 institutioncode:UWYMV" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 4
+	Query: "genus:Colaptes stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "genus:Aegolius institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "catalognumber:251 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1041 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Coccyzus institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:337 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:474 institutioncode:UWYMV" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "catalognumber:1044 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1037 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1052 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1062 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:327 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:443 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "catalognumber:1045 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:147 institutioncode:UWYMV" ; Times: 1
+	Query: "Aythya valisineria basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:1251 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1136 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1128 institutioncode:UWYMV" ; Times: 1
+	Query: "Dendrocopos major mappable:1" ; Times: 2
+	Query: "catalognumber:1093 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:351 institutioncode:UWYMV" ; Times: 1
+	Query: "Taeniopygia guttata mappable:1" ; Times: 5
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "catalognumber:105 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "catalognumber:393 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1030 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:176 institutioncode:UWYMV" ; Times: 1
+	Query: "Aythya americana basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "catalognumber:376 institutioncode:UWYMV" ; Times: 1
+	Query: "harrier" ; Times: 1
+	Query: "distance(location,geopoint(39.6074941005,-93.185287453))&lt;6409" ; Times: 4
+	Query: "Anas cyanoptera mappable:1" ; Times: 1
+	Query: "catalognumber:412 institutioncode:UWYMV" ; Times: 1
+	Query: "year &gt;= 2005 year &lt;= 2005 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:163 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:1131 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1050 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus locality:San Benito stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Oxyura jamaicensis mappable:1" ; Times: 2
+	Query: "catalognumber:1076 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:407 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1057 institutioncode:UWYMV" ; Times: 1
+	Query: "Phasianus colchicus mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Podiceps hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 1892 download events in this period)
+Total number of records downloaded: 465
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-06 ; Times: 5
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-02 ; Times: 8
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-20 ; Times: 7
+	Date: 2018-02-05 ; Times: 18
+	Date: 2018-02-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 6
+	Query: "specificepithet:galbula genus:Icterus" ; Times: 1
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Window" ; Times: 1
+	Query: "genus:junco hasmass:1" ; Times: 1
+	Query: "specificepithet:macroura genus:zenaida" ; Times: 1
+	Query: "genus:megascops hastissue:1" ; Times: 1
+	Query: "Empidonax alnorum" ; Times: 1
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza" ; Times: 3
+	Query: "specificepithet:acadicus genus:Aegolius" ; Times: 1
+	Query: "specificepithet:leucura genus:Lagopus continent:North America" ; Times: 2
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "window" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:leucophrys genus:Zonotrichia" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "specificepithet:melodia morphna genus:melospiza" ; Times: 1
+	Query: "specificepithet:livia genus:Columba continent:North America" ; Times: 1
+	Query: "specificepithet:stelleri genus:Cyanocitta continent:North America" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Pica continent:North America" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "molothrus" ; Times: 1
+	Query: "specificepithet:undulatus genus:Melopsittacus" ; Times: 1
+	Query: "window class:Aves" ; Times: 2
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:alpestris genus:Eremophila" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "specificepithet:vociferus genus:Caprimulgus" ; Times: 1
+	Query: "specificepithet:melodia class:aves" ; Times: 1
+	Query: "passer" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "specificepithet:alle genus:Alle" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "specificepithet:gambelii genus:Callipepla continent:North America" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lincolnii genus:melospiza" ; Times: 1
+	Query: "specificepithet:domesticus genus:Passer continent:North America" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis" ; Times: 1
+	Query: "specificepithet:chukar genus:Alectoris" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "specificepithet:bullockii genus:Icterus" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma" ; Times: 1
+
+
+End of report.
