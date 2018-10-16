@@ -1,0 +1,82 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 51
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 25
+	Country: Italy ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 5
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-04 ; Times: 5
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jamaicensis genus:Oxyura mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "specificepithet:ultramarina genus:Aphelocoma" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes" ; Times: 1
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(43.067916277931,-89.428143815909))&lt;9664" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "specificepithet:taeniatus genus:Peucedramus" ; Times: 1
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "specificepithet:mexicanus genus:Cinclus" ; Times: 1
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "specificepithet:californica genus:Callipepla mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:morio genus:Psilorhinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciata genus:Patagioenas" ; Times: 1
+	Query: "specificepithet:vespertinus genus:Coccothraustes" ; Times: 1
+	Query: "distance(location,geopoint(39.6074941005,-93.185287453))&lt;6409" ; Times: 2
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "distance(location,geopoint(43.1571285953795,-89.428143815909))&lt;9654" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1178 download events in this period)
+Total number of records downloaded: 331
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-03 ; Times: 4
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;45119" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "specificepithet:gambeli genus:Poecile hastissue:1" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 1
+	Query: "class:Aves preparations:skin distance(location,geopoint(37.85750715625203,-121.9866943359375))&lt;28430.074091808372" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "class:aves preparations:skin distance(location,geopoint(37.861844098370945,-122.04025268554688))&lt;80690" ; Times: 2
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.
