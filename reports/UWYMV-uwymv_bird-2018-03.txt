@@ -1,0 +1,353 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 359
+Number of records retrieved in searches: 702
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 23
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: United States ; Times: 326
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 31
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-01 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-03 ; Times: 6
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 191
+	Date: 2018-03-28 ; Times: 30
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 33
+	Date: 2018-03-27 ; Times: 19
+	Date: 2018-03-18 ; Times: 2
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 21
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chroicocephalus specificepithet:philadelphia" ; Times: 5
+	Query: "catalognumber:261 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:1325 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:306 institutioncode:UWYMV" ; Times: 1
+	Query: "recordedby:McConnell" ; Times: 1
+	Query: "catalognumber:1938 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1179 institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Uria specificepithet:lomvia" ; Times: 2
+	Query: "catalognumber:1916 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1280 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2947 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Anas specificepithet:acuta" ; Times: 2
+	Query: "Amazona oratrix" ; Times: 3
+	Query: "catalognumber:2221 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2356 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1940 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:36 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:501 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:252 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1743 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:555 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1233 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2649 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:251 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:148 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1933 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2652 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:345 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:340 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2719 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1181 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:1236 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2269 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:608 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:532 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:292 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Alca specificepithet:torda" ; Times: 5
+	Query: "catalognumber:571 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1943 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:406 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:561 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1164 institutioncode:UWYMV" ; Times: 4
+	Query: "catalognumber:515 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2437 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:633 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:228 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1932 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 5
+	Query: "catalognumber:481 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus hastissue:1" ; Times: 1
+	Query: "catalognumber:1936 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:304 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:144 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1912 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1942 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:140 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Anas specificepithet:crecca" ; Times: 2
+	Query: "catalognumber:898 institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Sterna specificepithet:hirundo" ; Times: 2
+	Query: "class:aves stateprovince:&#34;espirito santo&#34; country:&#34;brazil&#34;" ; Times: 2
+	Query: "Aves institutioncode:UWYMV hassex:1 hasmass:1" ; Times: 1
+	Query: "catalognumber:2655 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:551 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2428 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1930 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:480 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1193 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1161 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:418 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:455 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Colinus specificepithet:virginianus " ; Times: 1
+	Query: "catalognumber:310 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1931 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1918 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1072 institutioncode:UWYMV" ; Times: 1
+	Query: "Melozone crissalis" ; Times: 1
+	Query: "catalognumber:1939 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Aquila specificepithet:chrysaetos" ; Times: 5
+	Query: "catalognumber:236 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:629 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:658 institutioncode:UWYMV" ; Times: 1
+	Query: "Columba livia " ; Times: 1
+	Query: "genus:Arenaria specificepithet:melanocephala" ; Times: 2
+	Query: "catalognumber:521 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1937 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2782 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2418 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1919 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:28 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:522 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Taeniopygia specificepithet:guttata" ; Times: 5
+	Query: "catalognumber:313 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:336 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:44 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:127 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:146 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:978 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1935 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:560 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2695 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:312 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:238 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:896 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:147 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:520 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:422 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:401 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1914 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2280 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:6 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:989 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:150 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:482 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:234 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Selasphorus specificepithet:rufus" ; Times: 2
+	Query: "catalognumber:326 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:729 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:243 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1915 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:305 institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "B 1482" ; Times: 1
+	Query: "circus cyaneus vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:237 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2706 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:35 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2388 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:254 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1136 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:410 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:231 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:826 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2035 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:325 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:53 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 5
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 2
+	Query: "catalognumber:33 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1921 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:702 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1925 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2429 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:398 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1922 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:156 institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Podiceps specificepithet:nigricollis" ; Times: 2
+	Query: "catalognumber:348 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:338 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:484 institutioncode:UWYMV" ; Times: 1
+	Query: "buteo swainsoni " ; Times: 17
+	Query: "catalognumber:2656 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1928 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1923 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1176 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:556 institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Anas specificepithet:discors" ; Times: 6
+	Query: "catalognumber:1175 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2653 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:307 institutioncode:UWYMV" ; Times: 3
+	Query: "catalognumber:2533 institutioncode:UWYMV" ; Times: 1
+	Query: "recordedby:Miller institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:229 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:255 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:557 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:154 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:142 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:479 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:232 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Oxyura specificepithet:jamaicensis" ; Times: 2
+	Query: "genus:Meleagris specificepithet:gallopavo" ; Times: 2
+	Query: "catalognumber:153 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Podilymbus specificepithet:podiceps" ; Times: 2
+	Query: "catalognumber:233 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:982 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:249 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2654 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1745 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:39 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Circus specificepithet:cyaneus" ; Times: 2
+	Query: "catalognumber:1146 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2211 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Athene specificepithet:cunicularia" ; Times: 2
+	Query: "catalognumber:230 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2016 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1913 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2491 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:558 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:841 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:352 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:253 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2450 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1917 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:185 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1911 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:563 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:582 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:286 institutioncode:UWYMV" ; Times: 1
+	Query: "class:Aves recordedby:McConnell" ; Times: 1
+	Query: "catalognumber:308 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2340 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:227 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2431 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:891 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:408 institutioncode:UWYMV" ; Times: 2
+	Query: "buteo swainsoni" ; Times: 4
+	Query: "catalognumber:979 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:516 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:4 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:740 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 2
+	Query: "genus:Melopsittacus specificepithet:undulatus" ; Times: 5
+	Query: "catalognumber:2430 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:311 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:2642 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1192 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Tyto specificepithet:alba" ; Times: 2
+	Query: "catalognumber:5 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:303 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:368 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:137 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:2443 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1748 institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Dendragapus specificepithet:obscurus" ; Times: 2
+	Query: "catalognumber:596 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:332 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1965 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1155 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1348 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Catharus specificepithet:minimus " ; Times: 2
+	Query: "catalognumber:76 institutioncode:UWYMV" ; Times: 2
+	Query: "catalognumber:1945 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:280 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:811 institutioncode:UWYMV" ; Times: 2
+	Query: "genus:Phaethon specificepithet:lepturus" ; Times: 2
+	Query: "catalognumber:545 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:78 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:1929 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Gavia specificepithet:immer" ; Times: 1
+	Query: "catalognumber:241 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Geococcyx specificepithet:californianus" ; Times: 2
+	Query: "Streptopelia decaocto " ; Times: 2
+	Query: "genus:Sphyrapicus specificepithet:varius" ; Times: 2
+	Query: "catalognumber:1251 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:407 institutioncode:UWYMV" ; Times: 1
+	Query: "catalognumber:34 institutioncode:UWYMV" ; Times: 1
+	Query: "genus:Phasianus specificepithet:colchicus" ; Times: 2
+	Query: "catalognumber:575 institutioncode:UWYMV" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 1284 download events in this period)
+Total number of records downloaded: 1064
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-17 ; Times: 1
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-10 ; Times: 4
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-13 ; Times: 3
+	Date: 2018-03-27 ; Times: 2
+	Date: 2018-03-18 ; Times: 5
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:melodia genus:melospiza" ; Times: 2
+	Query: "class:Aves sex:male hassex:1 hasmass:1" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "family:laridae mappable:1" ; Times: 1
+	Query: "Cardellina pusilla" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "specificepithet:vociferus genus:Charadrius hasmass:1" ; Times: 1
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "family:alcidae mappable:1" ; Times: 2
+	Query: "family:Laridae mappable:1" ; Times: 1
+	Query: "vntype:specimen class:Aves preparations:Wing" ; Times: 1
+	Query: "aphelocoma woodhouseii" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Grus" ; Times: 3
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "family:alcidae AND (NOT eggs) mappable:1" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves lifestage:Adult sex:Male hassex:1 hasmass:1" ; Times: 1
+	Query: "Grus americana" ; Times: 1
+	Query: "Aves institutioncode:UWYMV hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:picoides hasmass:1" ; Times: 1
+	Query: "scientificname:&#34;Cyanocitta cristata&#34; hassex:1 hasmass:1" ; Times: 1
+
+
+End of report.
