@@ -1,0 +1,110 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 31
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "empidonax fulvifrons pygmaeus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "catalognumber:76 institutioncode:UWYMV" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "empidonax fulvifrons stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "class:Aves recordedby:J. M. Hatch" ; Times: 1
+	Query: "catalognumber:499 institutioncode:UWYMV" ; Times: 1
+	Query: "Crotophaga sulcirostris mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Synthliboramphus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes hastissue:1" ; Times: 2
+	Query: "Oxyura jamaicensis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "colaptes chrysoides stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "melozone aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "catalognumber:378 institutioncode:UWYMV" ; Times: 1
+	Query: "melanerpes uropygialis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "Callipepla gambelii hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1359 download events in this period)
+Total number of records downloaded: 218
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 14
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Callipepla gambelii hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(40.4619,-103.0293))&lt;50000" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Santa Barbara&#34; (&#34;San Miguel&#34; OR &#34;Santa Rosa&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Barbara&#34;)" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes hastissue:1" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "Junco hyemalis hasmass:1" ; Times: 1
+	Query: "class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Bubo scandiacus" ; Times: 1
+	Query: "Charadrius vociferus hasmass:1" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Protonotaria citrea" ; Times: 2
+	Query: "Spizella breweri hasmass:1" ; Times: 1
+	Query: "Contopus cooperi hasmass:1" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "Zonotrichia leucophrys gambelii" ; Times: 1
+	Query: "Passer domesticus hasmass:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Falco sparverius hasmass:1" ; Times: 1
+	Query: "Oreortyx pictus hasmass:1" ; Times: 1
+	Query: "Sayornis saya hasmass:1" ; Times: 1
+	Query: "Aphelocoma californica hasmass:1" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "specificepithet:acutipennis genus:Chordeiles" ; Times: 1
+	Query: "Accipiter striatus hasmass:1" ; Times: 1
+	Query: "Eremophila alpestris hasmass:1" ; Times: 1
+	Query: "Geothlypis trichas hasmass:1" ; Times: 1
+	Query: "Poecile gambeli hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+
+
+End of report.
