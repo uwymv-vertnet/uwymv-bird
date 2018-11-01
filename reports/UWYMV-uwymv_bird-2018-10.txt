@@ -1,0 +1,73 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 30
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-29 ; Times: 8
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-10 ; Times: 3
+	Date: 2018-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ludoviciana genus:Piranga stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:melanocephalus genus:Pheucticus hastissue:1" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:tricolor genus:Phalaropus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; catalognumber:492" ; Times: 1
+	Query: "class:aves recordedby:rex" ; Times: 2
+	Query: "crustacean" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus mappable:1" ; Times: 3
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "California Santa Cruz County pipilo maculatus" ; Times: 1
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Wyoming&#34; catalognumber:418" ; Times: 1
+	Query: "specificepithet:funereus genus:Aegolius stateprovince:&#34;Wyoming&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1300 download events in this period)
+Total number of records downloaded: 73
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+
+
+End of report.
