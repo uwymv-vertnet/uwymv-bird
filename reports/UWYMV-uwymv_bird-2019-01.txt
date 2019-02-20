@@ -1,0 +1,105 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 81
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 7
+	Country: New Zealand ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-29 ; Times: 3
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-09 ; Times: 6
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-12 ; Times: 1
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:virens genus:Icteria stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2010 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "&#34;Joseph Grinnell&#34; and &#34;Island&#34;" ; Times: 1
+	Query: "Crotophaga sulcirostris" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:deiroleucus genus:falco" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "sphyrapicus sex:female hastissue:1" ; Times: 3
+	Query: "specificepithet:pallida genus:Spizella stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "country:&#34;Sweden&#34;" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female hastissue:1" ; Times: 1
+	Query: "Setophaga kirtlandii" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2014 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Falco femoralis septentrionalis" ; Times: 2
+	Query: "Monachus" ; Times: 1
+	Query: "sphyrapicus ruber sex:female hastissue:1" ; Times: 3
+	Query: "Vermivora bachmanii" ; Times: 2
+	Query: "specificepithet:tolmiei genus:Geothlypis stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Crotophaga ani" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufigularis genus:falco" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 962 download events in this period)
+Total number of records downloaded: 62
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrapicus ruber sex:female hastissue:1" ; Times: 1
+	Query: "Melanerpes uropygialis" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "melanerpes uropygialis" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Leucosticte atrata" ; Times: 1
+	Query: "Colaptes chrysoides" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Falco femoralis septentrionalis" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+
+
+End of report.
