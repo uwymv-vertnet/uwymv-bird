@@ -1,0 +1,122 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 123
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Canada ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-04 ; Times: 16
+	Date: 2019-02-05 ; Times: 9
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-12 ; Times: 29
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Callipepla californica brunnescens mappable:1" ; Times: 1
+	Query: "body mass bird" ; Times: 1
+	Query: "Aythya AND collaris AND massing" ; Times: 1
+	Query: "Cardinalis sinuatus fulvescens mappable:1" ; Times: 3
+	Query: "Melozone fusca fusca mappable:1" ; Times: 1
+	Query: "Cardinalis sinuatus sinuatus mappable:1" ; Times: 1
+	Query: "Melanitta AND perspicillata AND massing" ; Times: 1
+	Query: "falco femoralis" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "Corvus corax sinuatus mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides mappable:1" ; Times: 1
+	Query: "Cygnus AND buccinator AND massing" ; Times: 1
+	Query: "Colaptes cafer cafer mappable:1" ; Times: 1
+	Query: "Auriparus flaviceps mappable:1" ; Times: 2
+	Query: "Anas OR Spatula AND clypeata AND massing" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "vntype:specimen year &gt;= 2012 year &lt;= 2019 hassex:1 hasmedia:1 hastissue:1" ; Times: 1
+	Query: "Tringa AND semipalmata AND massing" ; Times: 1
+	Query: "Aquila AND chrysaetos AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "Auriparus flaviceps ornatus mappable:1" ; Times: 5
+	Query: "Toxostoma crissale crissale mappable:1" ; Times: 1
+	Query: "Sitta carolinensis nelsoni mappable:1" ; Times: 1
+	Query: "Melozone fusca mesoleuca mappable:1" ; Times: 1
+	Query: "Callipepla gambelii gambelii mappable:1" ; Times: 1
+	Query: "Toxostoma crissale mappable:1" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Melozone crissalis senicula mappable:1" ; Times: 1
+	Query: "Buteo AND swainsoni AND massing" ; Times: 1
+	Query: "Phainopepla nitens nitens mappable:1" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 2
+	Query: "Cardinalis sinuatus mappable:1" ; Times: 3
+	Query: "Aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "Aythya AND americana AND massing" ; Times: 1
+	Query: "Megascops kennicottii hastissue:1" ; Times: 2
+	Query: "Auriparus flaviceps flaviceps mappable:1" ; Times: 5
+	Query: "Phainopepla nitens lepida mappable:1" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus couesi mappable:1" ; Times: 1
+	Query: "Aphelocoma woodhouseii year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Colaptes chrysoides chrysoides mappable:1" ; Times: 1
+	Query: "Colaptes chrysoides mearnsi mappable:1" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "Tringa AND solitaria AND massing" ; Times: 1
+	Query: "Toxostoma lecontei lecontei mappable:1" ; Times: 1
+	Query: "Sitta carolinensis tenuissima mappable:1" ; Times: 1
+	Query: "Oxyura AND jamaicensis AND massing" ; Times: 1
+	Query: "Aglaiocercus berlepschi" ; Times: 1
+	Query: "Toxostoma curvirostre palmeri mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1227 download events in this period)
+Total number of records downloaded: 58
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 19
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-05 ; Times: 12
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 5
+	Date: 2019-02-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendroica OR Setophaga AND petechia OR aestiva AND massing" ; Times: 1
+	Query: "Aythya AND collaris AND massing" ; Times: 1
+	Query: "Setophaga petechia AND weight" ; Times: 1
+	Query: "Melanitta AND perspicillata AND massing" ; Times: 1
+	Query: "Aythya AND valisineria AND massing" ; Times: 1
+	Query: "Geothlypis AND trichas AND massing" ; Times: 1
+	Query: "Megascops kennicottii hastissue:1" ; Times: 1
+	Query: "Tringa AND semipalmata AND massing" ; Times: 1
+	Query: "Aquila AND chrysaetos AND massing" ; Times: 1
+	Query: "Anas OR Mareca AND strepera AND massing" ; Times: 1
+	Query: "Willsonia OR Cardellina AND pusilla AND massing" ; Times: 1
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "perisoreus canadensis" ; Times: 1
+	Query: "Buteo AND swainsoni AND massing" ; Times: 1
+	Query: "Buteo AND jamaicensis AND massing" ; Times: 1
+	Query: "Cygnus AND buccinator AND massing" ; Times: 1
+	Query: "Anas OR Spatula AND clypeata AND massing" ; Times: 1
+	Query: "Aythya AND americana AND massing" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Tringa AND solitaria AND massing" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "Oxyura AND jamaicensis AND massing" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
