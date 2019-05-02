@@ -1,0 +1,80 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 8
+	Country: United Kingdom ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-12 ; Times: 5
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-04 ; Times: 3
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:decaocto genus:Streptopelia hastissue:1" ; Times: 2
+	Query: "genus:Bonasa stateprovince:&#34;Minnesota&#34; hastissue:1" ; Times: 1
+	Query: "catalognumber:437 institutioncode:UWYMV" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "10313" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "county:&#34;san bernardino&#34; recordedby:herron" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 2
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1263 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 6
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Washington" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Colorado" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Wyoming" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Ohio" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "(perisoreus) hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+
+
+End of report.
