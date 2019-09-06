@@ -1,0 +1,212 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 663
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 63
+	Country: Italy ; Times: 52
+	Country: Canada ; Times: 2
+	Country: Denmark ; Times: 6
+	Country: United Kingdom ; Times: 20
+	Country: Peru ; Times: 44
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-06 ; Times: 7
+	Date: 2019-08-08 ; Times: 13
+	Date: 2019-08-01 ; Times: 22
+	Date: 2019-08-02 ; Times: 21
+	Date: 2019-08-03 ; Times: 10
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 20
+	Date: 2019-08-14 ; Times: 51
+	Date: 2019-08-05 ; Times: 28
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-09 ; Times: 5
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (San Benito) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; recordedby:Beck year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) year &gt;= 1891 year &lt;= 1899" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Megaceryle alcyon" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "Jacob fork river" ; Times: 1
+	Query: "genus:Centrocercus" ; Times: 2
+	Query: "Tyrannus savana" ; Times: 3
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Tyrannus savana savana mappable:1" ; Times: 4
+	Query: "Calidris bairdii" ; Times: 1
+	Query: "genus:synthliboramphus family:Alcidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae distance(location,geopoint(28.324966411558243,-115.59864808805287))&lt;11007.271177911438" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "Spinus psaltria" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 1
+	Query: "Centrocercus minimus" ; Times: 22
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "family:Alcidae locality:san benito AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "family:Alcidae locality:san benito country:&#34;mexico&#34; preparations:skin AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Aglaiocercus berlepschi" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Vermivora cyanoptera" ; Times: 1
+	Query: "Tringa semipalmata" ; Times: 1
+	Query: "Heliangelus exortis" ; Times: 1
+	Query: "stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34; (Brachyramphus OR Micruria OR Synthliboramphus OR Endomychura)" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Gallinago delicata" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(28.324966411558243,-115.59864808805287))&lt;11007.271177911438" ; Times: 1
+	Query: "family:Alcidae locality:benito country:&#34;mexico&#34; AND (NOT Ptychoramphus) year &gt;= 1897" ; Times: 1
+	Query: "family:Alcidae (Benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "genus:synthliboramphus family:Alcidae distance(location,geopoint(28.305654581493954,-115.5746498296503))&lt;7669" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; recordedby:Beck year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "Spiza americana" ; Times: 1
+	Query: "genus:synthliboramphus family:Alcidae locality:benito" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Benito) AND (NOT Ptychoramphus)" ; Times: 3
+	Query: "Oporornis agilis" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Chroicocephalus philadelphia" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "family:Alcidae locality:san country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Tringa solitaria" ; Times: 1
+	Query: "Coeligena helianthea" ; Times: 1
+	Query: "family:Alcidae locality:benito country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 6
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "family:Alcidae locality:san benito country:&#34;mexico&#34;" ; Times: 1
+	Query: "Thalasseus maximus" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 2
+	Query: "family:Alcidae distance(location,geopoint(32.42817298927954,-117.20472726563418))&lt;100000" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (San Benito)" ; Times: 1
+	Query: "Phalaropus tricolor" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(32.438604699773165,-117.25279245118105))&lt;3677" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "subarcticus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(28.111993098115583,-115.23060609586537))&lt;100000" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca) year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(32.438604699773165,-117.25279245118105))&lt;10709.057169100459" ; Times: 1
+	Query: "Alectoris" ; Times: 2
+	Query: "family:Alcidae (San Benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "catalognumber:244" ; Times: 1
+	Query: "vntype:specimen family:Rallidae (frozen tissue) hastissue:1" ; Times: 1
+	Query: "Egretta tricolor" ; Times: 1
+	Query: "family:Alcidae locality:san benito country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 3
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "Chaetura pelagica" ; Times: 1
+	Query: "Coccyzus erythropthalmus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Hydroprogne caspia" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(28.305654581493954,-115.5746498296503))&lt;7669" ; Times: 2
+	Query: "benito family:Alcidae AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Circus hudsonius" ; Times: 1
+	Query: "family:Alcidae (san benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 4
+	Query: "specificepithet:striatus genus:Accipiter year &gt;= 1995 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Charadrius vociferus" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus" ; Times: 2
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Tringa flavipes" ; Times: 1
+	Query: "family:Alcidae locality:benito country:&#34;mexico&#34; AND (NOT Ptychoramphus) year &gt;= 1890 year &lt;= 1899" ; Times: 6
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 2
+	Query: "Spinus pinus" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 7
+	Query: "Buteo lagopus" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae distance(location,geopoint(28.305654581493954,-115.5746498296503))&lt;7669" ; Times: 1
+	Query: "Plegadis chihi" ; Times: 1
+	Query: "Pheucticus ludovicianus" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "family:Alcidae AND (NOT Ptychoramphus) distance(location,geopoint(28.305654581493954,-115.5746498296503))&lt;7669" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 6
+	Query: "Acanthis flammea" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(28.305654581493954,-115.5746498296503))&lt;100000" ; Times: 1
+	Query: "family:Alcidae distance(location,geopoint(32.42817298927954,-117.20472726563418))&lt;10709" ; Times: 1
+	Query: "Setophaga cerulea" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 2
+	Query: "Aythya collaris" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1034 download events in this period)
+Total number of records downloaded: 200
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Italy ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-14 ; Times: 8
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "vntype:specimen (&#34;Bubo virginianus&#34; OR &#34;Bubo scandiacus&#34; OR &#34;Bubo scandiaca&#34; OR &#34;Nyctea scandiacus&#34; OR &#34;Nyctea scandiaca&#34;)" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "family:Accipitridae" ; Times: 1
+	Query: "family:Alcidae (san benito) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "Thryomanes bewickii vntype:specimen basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus subarcticus genus:Bubo" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "specificepithet:minimus genus:Centrocercus" ; Times: 5
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "genus:Accipiter" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 1930 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "junco hyemalis" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 1700 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+
+
+End of report.
