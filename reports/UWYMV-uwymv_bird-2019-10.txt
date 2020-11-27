@@ -1,0 +1,150 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 302
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-22 ; Times: 11
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 8
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 4
+	Date: 2019-10-11 ; Times: 6
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-17 ; Times: 8
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-12 ; Times: 3
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "pusilla Cardellina" ; Times: 2
+	Query: "white tiger" ; Times: 1
+	Query: "vntype:specimen specificepithet:platyrhynchos genus:Anas country:&#34;United States&#34; year &gt;= 1900 year &lt;= 1910" ; Times: 1
+	Query: "caerulescens Setophaga" ; Times: 5
+	Query: "Passerculus sandwichensis AND San Benito" ; Times: 1
+	Query: "Puffinus opisthomelas" ; Times: 1
+	Query: "Baeolophus inornatus California santa clara county" ; Times: 1
+	Query: "Brachyramphus marmoratus 2019" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla" ; Times: 1
+	Query: "Synthliboramphus scrippsi continent:North America" ; Times: 3
+	Query: "Brachyramphus marmoratus 2012" ; Times: 1
+	Query: "genus:picoides stateprovince:&#34;wyoming&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 5
+	Query: "Centrocercus minimus 1984" ; Times: 1
+	Query: "Poecile atricapillus garrinus" ; Times: 1
+	Query: "platycercus Selasphorus" ; Times: 1
+	Query: "Callipepla californica AND Baja" ; Times: 1
+	Query: "Passerculus sandwichensis AND Isla San Benito" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "islas coronados" ; Times: 1
+	Query: "Brachyramphus marmoratus 1984" ; Times: 1
+	Query: "Callipepla californica AND Coronados" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "UWYMV Behl" ; Times: 1
+	Query: "genus:perisoreus stateprovince:&#34;washington&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "Egretta tricolor AND Island" ; Times: 1
+	Query: "Coccyzus americanus 1983" ; Times: 1
+	Query: "Coccyzus americanus 1984" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Centrocercus minimus 2012" ; Times: 1
+	Query: "Sphyrapicus ruber year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Centrocercus minimus 2019" ; Times: 1
+	Query: "specificepithet:flammeolus genus:Psiloscops" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 12
+	Query: "Coccyzus americanus 2018" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 1308 download events in this period)
+Total number of records downloaded: 233
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 5
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo platypterus" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geothlypis philadelphia" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "Setophaga virens" ; Times: 1
+	Query: "specificepithet:bewickii genus:Thryomanes hastissue:1" ; Times: 2
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:junco" ; Times: 1
+	Query: "genus:Thryomanes country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "window class:Aves" ; Times: 1
+	Query: "Setophaga townsendi" ; Times: 2
+	Query: "specificepithet:cristatella genus:Aethia" ; Times: 1
+	Query: "setophaga virens" ; Times: 2
+	Query: "specificepithet:hyemalis genus:junco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "specificepithet:flammeolus" ; Times: 1
+	Query: "Geothlypis formosa" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Geothlypis trichas" ; Times: 1
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
