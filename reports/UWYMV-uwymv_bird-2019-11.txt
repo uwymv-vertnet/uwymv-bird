@@ -1,0 +1,125 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 389
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 126
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 8
+	Date: 2019-11-18 ; Times: 6
+	Date: 2019-11-08 ; Times: 19
+	Date: 2019-11-09 ; Times: 5
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-07 ; Times: 21
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 11
+	Date: 2019-11-02 ; Times: 3
+	Date: 2019-11-10 ; Times: 18
+	Date: 2019-11-13 ; Times: 10
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 11
+	Date: 2019-11-28 ; Times: 6
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Spizella breweri" ; Times: 1
+	Query: "trochilidae spread wing" ; Times: 1
+	Query: "Coccyzus americanus 2019" ; Times: 4
+	Query: "Pandion haliaetus haliaetus hasmass:1" ; Times: 1
+	Query: "phasianus" ; Times: 1
+	Query: "specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "specificepithet:dorsalis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Brachyramphus marmoratus 2019" ; Times: 5
+	Query: "county:&#34;Hamilton&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Setophaga dominica dominica" ; Times: 3
+	Query: "Coccyzus americanus 2018" ; Times: 4
+	Query: "catalognumber:917 institutioncode:UWYMV" ; Times: 1
+	Query: "Gallinago gallinago gallinago hasmass:1" ; Times: 1
+	Query: "class:aves recordedby:browning" ; Times: 1
+	Query: "Brachyramphus marmoratus 2012" ; Times: 5
+	Query: "18819" ; Times: 1
+	Query: "Centrocercus minimus 1984" ; Times: 9
+	Query: "Oceanodroma homochroa AND Farallon NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Burtis NOT Miller NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "class:aves catalognumber:2790 year:2012 month:6" ; Times: 3
+	Query: "catalognumber:613 institutioncode:UWYMV" ; Times: 1
+	Query: "class:aves catalognumber:2622 year:2012 month:6 day:7" ; Times: 7
+	Query: "Oceanodroma homochroa AND Farallon" ; Times: 1
+	Query: "Brachyramphus marmoratus 1984" ; Times: 5
+	Query: "class:aves catalognumber:2622 year:2012 month:6" ; Times: 3
+	Query: "Passerina cyanea vntype:specimen country:&#34;United States&#34; collectioncode:Bird specimens" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Vireo gilvus brewsteri" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 2
+	Query: "Calliope calliope hasmass:1" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "class:aves catalognumber:2623 year:2012 month:6 day:7" ; Times: 7
+	Query: "James Bond Aves" ; Times: 1
+	Query: "body mass vntype:specimen" ; Times: 1
+	Query: "Coccyzus americanus 1983" ; Times: 4
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "Oceanodroma homochroa AND Farallon NOT Emerson NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Denburgh NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Calliope calliope calliope hasmass:1" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Coccyzus americanus 2012" ; Times: 4
+	Query: "Centrocercus minimus 2019" ; Times: 9
+	Query: "Oceanodroma homochroa AND Farallon NOT Gifford NOT Barlow NOT Fuchs NOT Gruber NOT Beeman" ; Times: 1
+	Query: "Oceanodroma homochroa AND Farallon NOT Stager NOT Ray NOT Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "class:aves catalognumber:2623 year:2012 month:6" ; Times: 3
+	Query: "specificepithet:canadensis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:gilvus genus:vireo stateprovince:&#34;wyoming&#34;" ; Times: 5
+	Query: "Centrocercus minimus 2012" ; Times: 9
+	Query: "class:aves catalognumber:2790 year:2012 month:6 day:7" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1367 download events in this period)
+Total number of records downloaded: 777
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "order:Caprimulgiformes" ; Times: 1
+	Query: "window class:Aves year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 4
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "Melospiza melodia" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "order:Columbiformes" ; Times: 2
+	Query: "order:Anseriformes" ; Times: 2
+	Query: "order:Accipitriformes" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+
+
+End of report.
