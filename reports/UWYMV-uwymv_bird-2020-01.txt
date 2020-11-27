@@ -1,0 +1,95 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 132
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Cuba ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-16 ; Times: 4
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-10 ; Times: 4
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-09 ; Times: 6
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:brown basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 6
+	Query: "picoides dorsalis hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Picoides hastissue:1" ; Times: 1
+	Query: "Porphyrula martinica" ; Times: 2
+	Query: "grus antigone" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "larry brown" ; Times: 3
+	Query: "class:aves recordedby:browning basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "nymphicus hollandicus" ; Times: 2
+	Query: "specificepithet:dorsalis genus:Picoides year &gt;= 1985 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:UWYMV" ; Times: 1
+	Query: "specificepithet:traillii genus:empidonax class:aves stateprovince:&#34;wyoming&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves locality:crater lake stateprovince:&#34;oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "domesticus Passer" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1584 download events in this period)
+Total number of records downloaded: 231
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Cuba ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 5
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-19 ; Times: 3
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Colorado&#34; hastissue:1" ; Times: 2
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+
+
+End of report.
