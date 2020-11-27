@@ -1,0 +1,150 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 365
+Number of records retrieved in searches: 1484
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 352
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-17 ; Times: 4
+	Date: 2020-04-07 ; Times: 120
+	Date: 2020-04-14 ; Times: 42
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-21 ; Times: 95
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-03 ; Times: 44
+	Date: 2020-04-08 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Ptychoramphus aleuticus" ; Times: 6
+	Query: "Anas acuta" ; Times: 13
+	Query: "Anas crecca" ; Times: 13
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "Piranga rubra" ; Times: 5
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "A. cristatella" ; Times: 6
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Pica pica" ; Times: 4
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "Fulica americana" ; Times: 3
+	Query: "pheucticus melanocephalus ludovicianus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Setophaga citrina" ; Times: 2
+	Query: "Asio flammeus" ; Times: 2
+	Query: "Podilymbus podiceps" ; Times: 4
+	Query: "Icteria virens" ; Times: 2
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Pheucticus ludovicianus melanocephalus" ; Times: 1
+	Query: "Columba livia" ; Times: 3
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "Somateria mollissima" ; Times: 9
+	Query: "Tachycineta bicolor" ; Times: 3
+	Query: "Phalaropus tricolor" ; Times: 5
+	Query: "Spinus pinus" ; Times: 3
+	Query: "Anas strepera" ; Times: 13
+	Query: "Turdus merula" ; Times: 14
+	Query: "Buteo lagopus" ; Times: 6
+	Query: "Pheucticus melanocephalus ludovicianus" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 4
+	Query: "Plectrophenax nivalis" ; Times: 3
+	Query: "asio flammeus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 4
+	Query: "Plegadis chihi" ; Times: 3
+	Query: "Larus occidentalis" ; Times: 6
+	Query: "Pheucticus ludovicianus" ; Times: 8
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Anas americana" ; Times: 11
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "Larus delawarensis" ; Times: 6
+	Query: "Larus heermanni" ; Times: 6
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Gallinago delicata" ; Times: 5
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Acanthis flammea" ; Times: 3
+	Query: "recordedby:price year &gt;= 1896 year &lt;= 1897" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Phalacrocorax pelagicus" ; Times: 4
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Passerina amoena" ; Times: 8
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Selasphorus rufus" ; Times: 3
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "Circus cyaneus" ; Times: 4
+	Query: "Grus canadensis" ; Times: 4
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Grus antigone" ; Times: 5
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "Mergus merganser" ; Times: 5
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "Accipiter gentilis" ; Times: 4
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "Aythya americana" ; Times: 4
+	Query: "Anas clypeata" ; Times: 13
+	Query: "173953" ; Times: 1
+	Query: "Branta bernicla" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1171 download events in this period)
+Total number of records downloaded: 407
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 1
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "family:Passerellidae hastissue:1" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.
