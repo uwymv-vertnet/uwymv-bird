@@ -1,0 +1,65 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "james bond" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "James Bond" ; Times: 3
+	Query: "locality:rocky ford stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Wyoming Moose" ; Times: 1
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "Aegolius funereus richardsoni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 940 download events in this period)
+Total number of records downloaded: 51
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "grus canadensis" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+
+End of report.
