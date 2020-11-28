@@ -1,0 +1,144 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 26
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 11
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-25 ; Times: 1
+	Date: 2020-10-22 ; Times: 3
+	Date: 2020-10-13 ; Times: 25
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 3
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 4
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "specificepithet:swainsonii genus:limnothlypis" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Wirt Knowlesville" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 3
+	Query: "genus:Passerina institutioncode:UWYMV hastissue:1" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "amazona oratrix" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin hastissue:1" ; Times: 3
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "Larus occidentalis" ; Times: 1
+	Query: "specificepithet:ruber ruber genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "picoides dorsalis hastissue:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "order:Passeriformes country:&#34;United States&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.04199170929545,-106.17365311598718))&lt;46503" ; Times: 1
+	Query: "specificepithet:ruber genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 2
+	Query: "Morus bassanus" ; Times: 1
+	Query: "specificepithet:ruber daggetti genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 3
+	Query: "Turdus merula" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 1
+	Query: "vntype:specimen specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "picoides dorsalis vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 institutioncode:UWYMV hastissue:1" ; Times: 1
+	Query: "genus:Passerina institutioncode:UWYMV" ; Times: 2
+	Query: "sphyrapicus hybrid" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves country:&#34;United States&#34; basisofrecord:PreservedSpecimen distance(location,geopoint(41.04199170929545,-106.17365311598718))&lt;46503" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:UWYMV hasmass:1" ; Times: 3
+	Query: "Pipilo maculatus stateprovince:&#34;Wyoming&#34; year &gt;= 1995 year &lt;= 2020" ; Times: 1
+	Query: "Rallus elegans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1521 download events in this period)
+Total number of records downloaded: 150
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-20 ; Times: 11
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin hastissue:1" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Rallus elegans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:thryomanes hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "skin vntype:specimen genus:Nucifraga columbiana country:&#34;United States&#34;" ; Times: 1
+	Query: "Calcariidae hastissue:1" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "picoides dorsalis vntype:specimen hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Odontophoridae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:UWYMV hasmass:1" ; Times: 2
+	Query: "specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+
+
+End of report.
