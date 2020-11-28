@@ -1,0 +1,102 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 514
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 37
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 6
+	Country: United Kingdom ; Times: 42
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-11 ; Times: 20
+	Date: 2020-06-03 ; Times: 37
+	Date: 2020-06-10 ; Times: 22
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus hasmass:1" ; Times: 1
+	Query: "Anas carolinensis" ; Times: 6
+	Query: "Anas crecca" ; Times: 6
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Pandion haliaetus hasmass:1" ; Times: 1
+	Query: "Sterna hirundo mass OR weight" ; Times: 2
+	Query: "Falco sparverius mass OR weight" ; Times: 2
+	Query: "Zenaida macroura mass OR weight" ; Times: 2
+	Query: "Anas acuta" ; Times: 5
+	Query: "Strix varia mass OR weight" ; Times: 2
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT aleuticus)" ; Times: 1
+	Query: "Mergus merganser" ; Times: 2
+	Query: "Cygnus buccinator mass OR weight" ; Times: 2
+	Query: "Cygnus buccinator hasmass:1" ; Times: 1
+	Query: "Aquila chrysaetos hasmass:1" ; Times: 1
+	Query: "Anas strepera" ; Times: 6
+	Query: "Larus californicus hasmass:1" ; Times: 1
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "Larus californicus mass OR weight" ; Times: 2
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 2
+	Query: "Pandion haliaetus mass OR weight" ; Times: 2
+	Query: "Anas americana" ; Times: 5
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 3
+	Query: "Falco sparverius hasmass:1" ; Times: 1
+	Query: "Sialia currucoides mass OR weight" ; Times: 2
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "Accipiter cooperii mass OR weight" ; Times: 1
+	Query: "Falco peregrinus mass OR weight" ; Times: 2
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri)" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "Aquila chrysaetos mass OR weight" ; Times: 2
+	Query: "Sialia currucoides hasmass:1" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 1
+	Query: "Accipiter cooperii hasmass:1" ; Times: 1
+	Query: "Sterna hirundo hasmass:1" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet)" ; Times: 1
+	Query: "Anas clypeata" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 474 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Brazil ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-10 ; Times: 10
+	Date: 2020-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "Hirundo rustica" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (hypoleucus OR hypoleuca OR scrippsi OR Synthliboramphus OR Brachyramphus OR murrelet) AND (NOT craveri NOT Coronado)" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+
+
+End of report.
