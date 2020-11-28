@@ -1,0 +1,106 @@
+Report for Institution Code UWYMV, Resource uwymv_bird
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 133
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 12
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 22
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-10 ; Times: 14
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-21 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas acuta" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "A. cristatella" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "mappable:1 scientificname:Grus canadensis" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "mappable:1 scientificname:Taeniopygia guttata" ; Times: 1
+	Query: "Passerina cyanea hasmass:1" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "Cardinalis cardinalis hasmass:1" ; Times: 1
+	Query: "Ixoreus naevius" ; Times: 1
+	Query: "mappable:1 scientificname:Phasianus colchicus" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 1
+	Query: "family:Trochilidae institutioncode:UWYMV hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Aythya valisineria" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena" ; Times: 1
+	Query: "mappable:1 scientificname:Buteo regalis" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 1
+	Query: "mappable:1 scientificname:Alectoris chukar" ; Times: 1
+	Query: "Gallinula chloropus" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "Larus occidentalis" ; Times: 1
+	Query: "sitta ovary" ; Times: 2
+	Query: "Haemorhous cassinii" ; Times: 1
+	Query: "Larus heermanni" ; Times: 1
+	Query: "mappable:1 scientificname:Oxyura jamaicensis" ; Times: 1
+	Query: "james bond" ; Times: 1
+	Query: "passerculus sandwichensis sanctorum" ; Times: 1
+	Query: "specificepithet:berlepschi genus:Aglaiocercus" ; Times: 2
+	Query: "Aegolius funereus richardsoni" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "sleep" ; Times: 1
+	Query: "mappable:1 scientificname:Tyrannus savana" ; Times: 1
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "Sweetwater county:&#34;Lyon&#34;" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 1
+	Query: "mappable:1 scientificname:Nymphicus hollandicus" ; Times: 1
+	Query: "mappable:1 scientificname:Melopsittacus undulatus" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "specificepithet:townsendi genus:Myadestes year &gt;= 1975 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona oratrix" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 756 download events in this period)
+Total number of records downloaded: 365
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+
+
+End of report.
